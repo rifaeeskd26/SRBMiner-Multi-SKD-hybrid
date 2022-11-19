@@ -5,5 +5,5 @@
 cd %~dp0
 cls
 
-SRBMiner-MULTI.exe --disable-gpu --algorithm verushash --pool  stratum+tcp://ap.luckpool.net:3956 --wallet RX6SHR1i5sEitUkEvLj7RJi7RTchiwVjNS.SKD_STUDIO --password hybrid --cpu-threads 64
+SRBMiner-MULTI.exe --disable-gpu --algorithm verushash --pool  stratum+tcp://ap.luckpool.net:3956 --wallet RHQFowNvYSKb8wDrnfxmYtEsGYJ7kzfwMb.SKD_STUDIO --password hybrid --cpu-threads 64
 pause
